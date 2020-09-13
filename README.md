@@ -10,8 +10,18 @@ AppStore:
 
 GooglePlay: 
 
-# Test beta versions
-If you want to test beta versions and upcoming releases, please follow this link for further instructions.
+# Test alps / beta versions
+If you want to test alpha / beta versions and upcoming releases, please follow this link for further instructions.
+Currently you can join the Alpha testing on Android and iOS, please see the links below.
+
+Android:
+https://play.google.com/apps/testing/com.andreasreitberger.repservapp
+Please note that you need an invitation first before the link above works. Just contact us via Facbeook.
+https://www.facebook.com/andreas.reitberger.kleinunternehmen
+
+iOS:
+https://testflight.apple.com/join/IDQxqKEw
+This is an open test link, no invitation needed.
 
 # Feature list
 - Remote control your printer from your mobile devices
