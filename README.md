@@ -16,12 +16,10 @@ Currently you can join the Alpha testing on Android and iOS, please see the link
 
 Android:
 https://play.google.com/apps/testing/com.andreasreitberger.repservapp
-Please note that you need an invitation first before the link above works. Just contact us via Facbeook.
-https://www.facebook.com/andreas.reitberger.kleinunternehmen
 
 iOS:
 https://testflight.apple.com/join/IDQxqKEw
-This is an open test link, no invitation needed.
+
 
 # Feature list
 - Remote control your printer from your mobile devices
