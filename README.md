@@ -10,7 +10,7 @@ AppStore:
 
 GooglePlay: 
 
-# Test alps / beta versions
+# Test alpha / beta versions
 If you want to test alpha / beta versions and upcoming releases, please follow this link for further instructions.
 Currently you can join the Alpha testing on Android and iOS, please see the links below.
 
