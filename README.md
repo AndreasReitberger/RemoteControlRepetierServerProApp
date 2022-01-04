@@ -34,8 +34,7 @@ Pro: https://testflight.apple.com/join/qIH1zd5T<br />
 
 # Impressions
 <img src="https://andreas-reitberger.de/wp-content/uploads/2021/08/1_en.png" width="400"> <img src="https://andreas-reitberger.de/wp-content/uploads/2021/08/2_en.png" width="400">
-<img src="https://andreas-reitberger.de/wp-content/uploads/2021/08/3_en.png" width="400"> <img src="https://andreas-reitberger.de/wp-content/uploads/2021/08/4_en.png" width="400"> 
-<img src="https://andreas-reitberger.de/wp-content/uploads/2021/08/5_en.png" width="400">
+<img src="https://andreas-reitberger.de/wp-content/uploads/2021/08/3_en.png" width="400"> <img src="https://andreas-reitberger.de/wp-content/uploads/2021/08/4_en.png" width="400">
 
 # Roadmap
 Here you find the planned features for upcoming updates. Feel free to suggest any.
